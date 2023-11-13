@@ -1,0 +1,16 @@
+.bg-restaurant {
+  background-color: #fff; 
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px 0px #000000;
+  padding: 20px;
+  color: #000; 
+}
+
+.btn-primary {
+  background-color: #000 !important; 
+  color: #fff !important; 
+}
+
+.btn-primary:hover {
+  background-color: #333 !important; 
+}
