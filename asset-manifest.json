@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Peerspective/IM-2.git/static/css/main.4a4c7414.css",
+    "main.js": "/Peerspective/IM-2.git/static/js/main.ee0ce442.js",
+    "static/media/Carinderia.jpg": "/Peerspective/IM-2.git/static/media/Carinderia.8ea3736dd56d8d02cb79.jpg",
+    "index.html": "/Peerspective/IM-2.git/index.html",
+    "main.4a4c7414.css.map": "/Peerspective/IM-2.git/static/css/main.4a4c7414.css.map",
+    "main.ee0ce442.js.map": "/Peerspective/IM-2.git/static/js/main.ee0ce442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4c7414.css",
+    "static/js/main.ee0ce442.js"
+  ]
+}
